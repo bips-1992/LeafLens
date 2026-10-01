@@ -1,0 +1,10 @@
+{
+  "name": "LeafLens — Plant Leaf Deficiency Scanner",
+  "description": "Scan plant leaves with live camera AI recognition to instantly identify nutrient deficiencies (Magnesium, Potassium, Nitrogen, Iron, etc.), symptoms, and organic treatment remedies. Offline-first PWA with ephemeral private session storage.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
